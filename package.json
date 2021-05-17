@@ -9,7 +9,7 @@
   "author": "Rune Halvorsen <runefh@gmail.com>",
   "license": "Apache License, Version 2.0",
   "dependencies": {
-    "xmldom": "^0.1.19",
+    "xmldom": "^0.5.0",
     "bluebird": "^2.3.4",
     "request": "^2.47.0",
     "ramda": "^0.7.0"
